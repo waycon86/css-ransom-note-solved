@@ -63,6 +63,7 @@ body {
   font-size: 72px;
   font-weight: bold;
   color: aqua;
+  background-color: bisque;
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -72,6 +73,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   color: darkgoldenrod;
+  background-color: darkgray;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Ceviche One', sans-serif;
@@ -81,6 +83,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: coral;
+  background-color: aliceblue;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -92,6 +95,7 @@ body {
   font-size: 50px;
   font-weight: heavy;
   color: springgreen;
+  background-color: black;
   text-decoration: underline;
   text-transform: lowercase;
   font-family: 'Grechen Fuemen', sans-serif;
@@ -101,6 +105,7 @@ body {
   font-size: 75px;
   font-weight: normal;
   color: rgb(156, 103, 39);
+  background-color: aquamarine;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
@@ -110,6 +115,7 @@ body {
   font-size: 95px;
   font-weight: bold;
   color: turquoise;
+  background-color: brown;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -121,6 +127,7 @@ body {
   font-size: 30px;
   font-weight: normal;
   color: rgb(139, 0, 0);
+  background-color: antiquewhite;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Asap', sans-serif;
@@ -130,6 +137,7 @@ body {
   font-size: 65px;
   font-weight: bold;
   color: Cornsilk;
+  background-color: black;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
@@ -139,6 +147,7 @@ body {
   font-size: 40px;
   font-weight: 400;
   color: rgb(139, 69, 19);
+  background-color: beige;
   text-decoration: line-through;
   text-transform: uppercase;
   font-family: 'Ceviche One', sans-serif;
@@ -150,6 +159,7 @@ body {
   font-size: 65px;
   font-weight: normal;
   color: DarkOrange;
+  background-color: yellowgreen;
   text-decoration: overline;
   text-transform: uppercase;
   font-family: 'Ceviche One', sans-serif;
@@ -159,6 +169,7 @@ body {
   font-size: 55px;
   font-weight: normal;
   color: DarkOrchid;
+  background-color: chocolate;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -168,6 +179,7 @@ body {
   font-size: 39px;
   font-weight: bold;
   color: turquoise;
+  background-color: burlywood;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Ceviche One', sans-serif;
@@ -177,6 +189,7 @@ body {
   font-size: 84px;
   font-weight: normal;
   color: DarkSalmon;
+  background-color: violet;
   text-decoration: underline;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -186,6 +199,7 @@ body {
   font-size: 76px;
   font-weight: 700;
   color: rgb(255, 140, 0);
+  background-color: #282a56;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Oswald', sans-serif;
@@ -195,6 +209,7 @@ body {
   font-size: 83px;
   font-weight: normal;
   color: DarkSeaGreen;
+  background-color: azure;
   text-decoration: underline;
   text-transform: lowercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -204,6 +219,7 @@ body {
   font-size: 90px;
   font-weight: 400;
   color: DodgerBlue;
+  background-color: tomato;
   text-decoration: line-through;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -214,6 +230,7 @@ body {
   font-size: 30px;
   font-weight: normal;
   color: Gold;
+  background-color: black;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -225,6 +242,7 @@ body {
   font-size: 45px;
   font-weight: normal;
   color: DarkTurquoise;
+  background-color: blueviolet;
   text-decoration: line-through;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -233,6 +251,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   color: Cornsilk;
+  background-color: rgb(99, 49, 99);
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Oswald', sans-serif;
@@ -241,6 +260,7 @@ body {
   font-size: 50px;
   font-weight: normal;
   color: DarkMagenta;
+  background-color: aqua;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -249,6 +269,7 @@ body {
   font-size: 65px;
   font-weight: 700;
   color: DimGray;
+  background-color: yellow;
   text-decoration: underline;
   text-transform: lowercase;
   font-family: 'Ceviche One', sans-serif;
@@ -257,6 +278,7 @@ body {
   font-size: 39px;
   font-weight: bold;
   color: DarkCyan;
+  background-color: rgb(99, 83, 60);
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -265,6 +287,7 @@ body {
   font-size: 20px;
   font-weight: bold;
   color: DarkViolet;
+  background-color: brown;
   text-decoration: line-through;
   text-transform: uppercase;
   font-family: 'Grechen Fuemen', sans-serif;
@@ -273,6 +296,7 @@ body {
   font-size: 88px;
   font-weight: 400;
   color: rgb(220, 220, 220);
+  background-color: rgb(77, 63, 47);
   text-decoration: line-through;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -281,6 +305,7 @@ body {
   font-size: 58px;
   font-weight: normal;
   color: ForestGreen;
+  background-color: aliceblue;
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -289,6 +314,7 @@ body {
   font-size: 40px;
   font-weight: bold;
   color: rgb(71, 114, 114);
+  background-color: beige;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Oswald', sans-serif;
@@ -300,6 +326,7 @@ body {
   font-size: 70px;
   font-weight: 700;
   color: rgb(176, 224, 230);
+  background-color: teal;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -308,6 +335,7 @@ body {
   font-size: 65px;
   font-weight: bold;
   color: DeepPink;
+  background-color: whitesmoke;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
@@ -316,6 +344,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   color: DarkViolet;
+  background-color: wheat;
   text-decoration: line-through;
   text-transform: lowercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -324,6 +353,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: Bisque;
+  background-color: steelblue;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -335,6 +365,7 @@ body {
   font-size: 70px;
   font-weight: bold;
   color: Orchid;
+  background-color: cadetblue;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Ceviche', sans-serif;
@@ -343,6 +374,7 @@ body {
   font-size: 50px;
   font-weight: bold;
   color: Cornsilk;
+  background-color: black;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Caveat', sans-serif;
@@ -354,6 +386,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: LavenderBlush;
+  background-color: violet;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Piazzolla', sans-serif;
@@ -362,6 +395,7 @@ body {
   font-size: 70px;
   font-weight: bold;
   color: DarkCyan;
+  background-color: azure;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Caveat', sans-serif;
@@ -370,6 +404,7 @@ body {
   font-size: 50px;
   font-weight: bold;
   color: Seashell;
+  background-color: chocolate;
   text-decoration: line-through;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -378,6 +413,7 @@ body {
   font-size: 80px;
   font-weight: normal;
   color: Moccasin;
+  background-color: rgb(77, 47, 77);
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -386,6 +422,7 @@ body {
   font-size: 55px;
   font-weight: 700;
   color: LightGoldenRodYellow;
+  background-color: #2d2f49;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -395,6 +432,7 @@ body {
   font-size: 25px;
   font-weight: bold;
   color: PaleVioletRed;
+  background-color: yellow;
   text-decoration: overline;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -403,6 +441,7 @@ body {
   font-size: 50px;
   font-weight: normal;
   color: LightCoral;
+  background-color: rgb(41, 90, 13);
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -411,6 +450,7 @@ body {
   font-size: 80px;
   font-weight: 700;
   color: DarkOrange;
+  background-color: rgb(38, 59, 77);
   text-decoration: underline;
   text-transform: lowercase;
   font-family: 'Ceviche One', sans-serif;
@@ -419,6 +459,7 @@ body {
   font-size: 68px;
   font-weight: 400;
   color: Chartreuse;
+  background-color: wheat;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -430,6 +471,7 @@ body {
   font-size: 80px;
   font-weight: normal;
   color: rgb(123, 228, 228);
+  background-color: rgb(37, 43, 49);
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Oswald', sans-serif;
@@ -438,6 +480,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: rgb(72, 61, 139);
+  background-color: bisque;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Grechen Fuemen', sans-serif;
@@ -446,6 +489,7 @@ body {
   font-size: 70px;
   font-weight: 400;
   color: RosyBrown;
+  background-color: rgb(19, 94, 57);
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -454,6 +498,7 @@ body {
   font-size: 50px;
   font-weight: 400;
   color: BlueViolet;
+  background-color: rgb(141, 116, 69);
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -462,6 +507,7 @@ body {
   font-size: 70px;
   font-weight: bold;
   color: DarkSlateBlue;
+  background-color: skyblue;
   text-decoration: 400;
   text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
@@ -470,6 +516,7 @@ body {
   font-size: 60px;
   font-weight: 700;
   color: DarkGoldenRod;
+  background-color: rgb(224, 96, 64);
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Asap', sans-serif;
@@ -478,6 +525,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: OliveDrab;
+  background-color: antiquewhite;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -489,6 +537,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   color: rgb(175, 238, 238);
+  background-color: yellow;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -497,6 +546,7 @@ body {
   font-size: 90px;
   font-weight: normal;
   color: DarkCyan;
+  background-color: blanchedalmond;
   text-decoration: line-through;
   text-transform: lowercase;
   font-family: 'Ceviche One', sans-serif;
@@ -505,6 +555,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   color: SlateGray;
+  background-color: yellow;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
@@ -513,6 +564,7 @@ body {
   font-size: 70px;
   font-weight: 700;
   color: OldLace;
+  background-color: rgb(94, 94, 52);
   text-decoration: overline;
   text-transform: uppercase;
   font-family: 'Ceviche One', sans-serif;
@@ -524,6 +576,7 @@ body {
   font-size: 40px;
   font-weight: bold;
   color: GreenYellow;
+  background-color: rgb(207, 179, 207);
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -532,6 +585,7 @@ body {
   font-size: 78px;
   font-weight: 400;
   color: DimGray;
+  background-color: tan;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -540,6 +594,7 @@ body {
   font-size: 55px;
   font-weight: 700;
   color: RebeccaPurple;
+  background-color: black;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -548,6 +603,7 @@ body {
   font-size: 60px;
   font-weight: 400;
   color: PapayaWhip;
+  background-color: #58a829;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -556,6 +612,7 @@ body {
   font-size: 40px;
   font-weight: normal;
   color: rgb(85, 107, 46);
+  background-color: rgb(207, 179, 207);
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -564,6 +621,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: HotPink;
+  background-color: white;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -575,6 +633,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: LightSteelBlue;
+  background-color: rgb(21, 57, 87);
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -583,6 +642,7 @@ body {
   font-size: 40px;
   font-weight: 400;
   color: PeachPuff;
+  background-color: rgb(121, 41, 45);
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
@@ -594,6 +654,7 @@ body {
   font-size: 50px;
   font-weight: bold;
   color: rgb(255, 99, 71);
+  background-color: rgb(49, 90, 124);
   text-decoration: underline;
   text-transform: lowercase;
   font-family: 'Oswald', sans-serif;
@@ -602,7 +663,8 @@ body {
 .improveMLetter {
   font-size: 40px;
   font-weight: 700;
-  color: RosyBrown;
+  color: rgb(212, 77, 77);
+  background-color: azure;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -611,6 +673,7 @@ body {
   font-size: 50px;
   font-weight: normal;
   color: BlueViolet;
+  background-color: yellow;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
@@ -619,6 +682,7 @@ body {
   font-size: 20px;
   font-weight: bold;
   color: IndianRed;
+  background-color: slateblue;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -627,6 +691,7 @@ body {
   font-size: 40px;
   font-weight: 700;
   color: MintCream;
+  background-color: chocolate;
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -635,6 +700,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: Peru;
+  background-color: yellow;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -643,6 +709,7 @@ body {
   font-size: 20px;
   font-weight: bold;
   color: SeaGreen;
+  background-color: violet;
   text-decoration: line-through;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -654,6 +721,7 @@ body {
   font-size: 60px;
   font-weight: 700;
   color: SaddleBrown;
+  background-color: rgb(247, 17, 247);
   text-decoration: line-through;
   text-transform: lowercase;
   font-family: 'Ceviche One', sans-serif;
@@ -662,6 +730,7 @@ body {
   font-size: 90px;
   font-weight: 400;
   color: rgb(72, 61, 139);
+  background-color: rgb(247, 210, 163);
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -670,6 +739,7 @@ body {
   font-size: 60px;
   font-weight: bold;
   color: DarkGray;
+  background-color: blue;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -678,6 +748,7 @@ body {
   font-size: 85px;
   font-weight: normal;
   color: Teal;
+  background-color: rgb(162, 226, 33);
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Asap', sans-serif;
@@ -686,6 +757,7 @@ body {
   font-size: 50px;
   font-weight: 700;
   color: DarkOrchid;
+  background-color: tomato;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Raleway Dots', sans-serif;
@@ -698,6 +770,7 @@ body {
   font-size: 45px;
   font-weight: 400;
   color: Fuchsia;
+  background-color: aquamarine;
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -706,6 +779,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   color: FireBrick;
+  background-color: black;
   text-decoration: none;
   text-transform: lowercase;
   font-family: 'Asap', sans-serif;
@@ -714,6 +788,7 @@ body {
   font-size: 75px;
   font-weight: 400;
   color: DodgerBlue;
+  background-color: blueviolet;
   text-decoration: line-through;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -722,6 +797,7 @@ body {
   font-size: 60px;
   font-weight: normal;
   color: Gainsboro;
+  background-color: cadetblue;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
@@ -733,6 +809,7 @@ body {
   font-size: 30px;
   font-weight: normal;
   color: DarkSeaGreen;
+  background-color: blanchedalmond;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -741,6 +818,7 @@ body {
   font-size: 70px;
   font-weight: 700;
   color: DarkGoldenRod;
+  background-color: #58a829;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Ceviche One', sans-serif;
@@ -749,6 +827,7 @@ body {
   font-size: 58px;
   font-weight: bold;
   color: DarkCyan;
+  background-color: burlywood;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Monomkh', sans-serif;
@@ -757,6 +836,7 @@ body {
   font-size: 28px;
   font-weight: normal;
   color: Crimson;
+  background-color: violet;
   text-decoration: line-through;
   text-transform: lowercase;
   font-family: 'Ceviche One', sans-serif;
@@ -765,6 +845,7 @@ body {
   font-size: 60px;
   font-weight: bold;
   color: BlanchedAlmond;
+  background-color: teal;
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Oswald', sans-serif;
@@ -773,6 +854,7 @@ body {
   font-size: 78px;
   font-weight: normal;
   color: AliceBlue;
+  background-color: rgb(216, 102, 9);
   text-decoration: underline;
   text-transform: lowercase;
   font-family: 'Monomkh', sans-serif;
@@ -784,6 +866,7 @@ body {
   font-size: 85px;
   font-weight: normal;
   color: BurlyWood;
+  background-color: goldenrod;
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Grechen Fuemen', sans-serif;
@@ -791,16 +874,18 @@ body {
 .exclamation-mark {
   font-size: 90px;
   font-weight: normal;
-  color: Beige;
+  color: rgb(197, 197, 36);
+  background-color: rgb(119, 92, 43);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Monomkh', sans-serif;
+  font-family: 'Asap', sans-serif;
 }
 .question-mark {
   font-size: 80px;
   font-weight: normal;
   color: Chocolate;
+  background-color: ghostwhite;
   text-decoration: overline;
   text-transform: uppercase;
-  font-family: 'Monomkh', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
